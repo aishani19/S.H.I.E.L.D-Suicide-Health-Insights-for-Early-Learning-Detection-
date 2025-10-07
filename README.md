@@ -3,13 +3,20 @@ Suicide Health Insights for Early Learning and Detection is an AI-based mental h
 The goal is to support mental health professionals and awareness initiatives by providing interpretable insights for early intervention and prevention.
 
 Key Features:
+
 📊 Data preprocessing and feature engineering on mental health datasets
+
 🤖 Machine learning model for suicide risk prediction
+
 🌐 Interactive dashboard for visualization of insights and trends
+
 🔔 Early warning indicators for potential high-risk cases
+
 🧩 Scalable architecture for integration with mental health support systems
 
 Tech Stack:
 Python, Pandas, NumPy, Scikit-learn
+
 Streamlit / Flask (for dashboard or app interface)
+
 Matplotlib / Seaborn (for visualization)
