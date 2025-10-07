@@ -1,5 +1,4 @@
 Suicide Health Insights for Early Learning and Detection is a data science and machine learning project focused on understanding and predicting suicide trends across different ages, countries, years, and generations. The project analyzes global suicide data to uncover meaningful patterns that can support early detection, awareness, and prevention strategies.
-
 By applying statistical analysis and predictive modeling, the system identifies correlations between demographic factors and suicide rates, helping policymakers, researchers, and mental health organizations make data-informed decisions.
 
 This project aims to:
