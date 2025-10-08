@@ -188,3 +188,5 @@ if st.sidebar.button("Predict"):
 st.subheader("📄 View Raw Data")
 if st.checkbox("Show raw data"):
     st.dataframe(filtered)
+#Run this code using streamlit run app5.py
+
